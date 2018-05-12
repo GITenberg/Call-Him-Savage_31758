@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35119
     wikipedia: http://en.wikipedia.org/wiki/Howard_Browne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31758#Call-Him-Savage
 gutenberg_issued: '2010-03-24'
 gutenberg_type: Text
 identifiers:
